@@ -1,0 +1,85 @@
+{
+	"folders": [
+		{
+			"name": "grid",
+			"path": "../../css/grid"
+		},
+		{
+			"name": "exerciciogrid",
+			"path": "../../css/exerciciogrid"
+		},
+		{
+			"name": "site de curriculo",
+			"path": "../../css/site de curriculo"
+		},
+		{
+			"name": "bootstrap",
+			"path": "../../css/bootstrap"
+		},
+		{
+			"name": "1 aula introdução logica",
+			"path": "../1 aula introdução logica"
+		},
+		{
+			"name": "2 aula- display",
+			"path": "../2 aula- display"
+		},
+		{
+			"name": "4 aula-variáveis",
+			"path": "../4 aula-variáveis"
+		},
+		{
+			"name": "exercicio",
+			"path": "../5 aula-operadores/exercicio"
+		},
+		{
+			"name": "5 aula-operadores",
+			"path": "../5 aula-operadores"
+		},
+		{
+			"path": "../6 aula-operadores logicos"
+		},
+		{
+			"path": "../8-aula switch"
+		},
+		{
+			"path": "../11 aula- for e listas"
+		},
+		{
+			"path": "../12-aula array"
+		},
+		{
+			"path": "../jogo"
+		},
+		{
+			"path": "../13- aula filter()"
+		},
+		{
+			"path": "../14- aula funções"
+		},
+		{
+			"path": "../exercicios de função"
+		},
+		{
+			"path": "../15- aula DOM CSS"
+		},
+		{
+			"path": "../18 - aula filtro"
+		},
+		{
+			"path": "../19-aula MODAL"
+		},
+		{
+			"path": "../20-aula Objetos"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../react/2 aula- componentes"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "exercicio"
+	}
+}
